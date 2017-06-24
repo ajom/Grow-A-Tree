@@ -1,0 +1,28 @@
+BC = (0.87, 0.72, 0.52)
+FC = (.75, 0, 0)
+
+
+t = 23.5
+bl = 30
+
+BA
+A = [+BAL][-BAL][&BAL][^BAL]
+B = BB
+
+
+
+t = 25.7
+bl = 5
+
+A
+A = B[+AL][-AL][&AL][^AL]BAF
+B = BB
+
+
+
+t = 18
+bl = 30
+
+A
+A = I+[A+F]--//LI[++L]-[AF]++AF
+I = BBBLLBBB
